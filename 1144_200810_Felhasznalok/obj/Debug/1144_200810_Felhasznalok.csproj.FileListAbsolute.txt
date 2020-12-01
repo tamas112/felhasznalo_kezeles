@@ -1,0 +1,16 @@
+Z:\slo\Projects\1144_200810_Felhasznalok\1144_200810_Felhasznalok\bin\Debug\1144_200810_Felhasznalok.exe.config
+Z:\slo\Projects\1144_200810_Felhasznalok\1144_200810_Felhasznalok\bin\Debug\1144_200810_Felhasznalok.exe
+Z:\slo\Projects\1144_200810_Felhasznalok\1144_200810_Felhasznalok\bin\Debug\1144_200810_Felhasznalok.pdb
+Z:\slo\Projects\1144_200810_Felhasznalok\1144_200810_Felhasznalok\obj\Debug\1144_200810_Felhasznalok.csprojResolveAssemblyReference.cache
+Z:\slo\Projects\1144_200810_Felhasznalok\1144_200810_Felhasznalok\obj\Debug\1144_200810_Felhasznalok.exe
+Z:\slo\Projects\1144_200810_Felhasznalok\1144_200810_Felhasznalok\obj\Debug\1144_200810_Felhasznalok.pdb
+C:\Tamas\Jedlik\csharp\1144_200810_Felhasznalok\1144_200810_Felhasznalok\bin\Debug\1144_200810_Felhasznalok.exe.config
+C:\Tamas\Jedlik\csharp\1144_200810_Felhasznalok\1144_200810_Felhasznalok\obj\Debug\1144_200810_Felhasznalok.exe
+C:\Tamas\Jedlik\csharp\1144_200810_Felhasznalok\1144_200810_Felhasznalok\obj\Debug\1144_200810_Felhasznalok.pdb
+\\HOME\Tamas-PC\Tamas\Jedlik\csharp\1144_200810_Felhasznalok\1144_200810_Felhasznalok\bin\Debug\1144_200810_Felhasznalok.exe.config
+\\HOME\Tamas-PC\Tamas\Jedlik\csharp\1144_200810_Felhasznalok\1144_200810_Felhasznalok\bin\Debug\1144_200810_Felhasznalok.exe
+\\HOME\Tamas-PC\Tamas\Jedlik\csharp\1144_200810_Felhasznalok\1144_200810_Felhasznalok\bin\Debug\1144_200810_Felhasznalok.pdb
+\\HOME\Tamas-PC\Tamas\Jedlik\csharp\1144_200810_Felhasznalok\1144_200810_Felhasznalok\obj\Debug\1144_200810_Felhasznalok.csprojAssemblyReference.cache
+\\HOME\Tamas-PC\Tamas\Jedlik\csharp\1144_200810_Felhasznalok\1144_200810_Felhasznalok\obj\Debug\1144_200810_Felhasznalok.csproj.CoreCompileInputs.cache
+\\HOME\Tamas-PC\Tamas\Jedlik\csharp\1144_200810_Felhasznalok\1144_200810_Felhasznalok\obj\Debug\1144_200810_Felhasznalok.exe
+\\HOME\Tamas-PC\Tamas\Jedlik\csharp\1144_200810_Felhasznalok\1144_200810_Felhasznalok\obj\Debug\1144_200810_Felhasznalok.pdb

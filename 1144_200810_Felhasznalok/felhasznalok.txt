@@ -1,0 +1,5 @@
+﻿Kovács Dénes*12345*Adminisztrátor
+Kiss Gabriella*körtefa*Rendszergazda
+Szabó Géza*aabbb34*Adminisztrátor
+Szabó Dénes*123123*Rendszergazda
+Kovács Gabriella*almafa*Rendszergazda
